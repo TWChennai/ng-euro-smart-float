@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('ng-smart-float', ['ng-euro-number-filter']).directive('smartFloat', function ($filter) {
+angular.module('ng-smart-float', ['ng-number-filter']).directive('smartFloat', function ($filter) {
 
     function removeMultipleCommas(input) {
         input = input.split(',');

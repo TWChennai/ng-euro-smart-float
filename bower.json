@@ -1,0 +1,17 @@
+{
+  "name": "ng-smart-float",
+  "description": "Angular 1 directive to format the number in euro number",
+  "main": "index.js",
+  "authors": [
+    "Thoughtworks"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TWChennai/ng-euro-smart-float",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
