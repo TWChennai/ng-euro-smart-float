@@ -1,0 +1,8 @@
+{
+  "name": "ng-smart-float",
+  "version": "1.0.0",
+  "description": "Angular 1 directive to format the number in euro number",
+  "main": "index.js",
+  "author": "Thoughtworks",
+  "license": "ISC"
+}
