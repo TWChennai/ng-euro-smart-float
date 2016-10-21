@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "ng-euro-number-filter": "ng-number-filter#^1.0.1"
+  }
 }
